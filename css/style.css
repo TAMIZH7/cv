@@ -1,0 +1,16 @@
+h1{
+    font-style: italic;
+}
+
+
+
+body{
+    background-color:#B9E9FC;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+}
